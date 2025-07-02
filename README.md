@@ -13,12 +13,13 @@ When I’m not coding, you’ll find me organizing college events, playing volle
 
 ---
 
-🌐 **Socials:**
+### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-chauhan-10196224a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Aditya-chauhann)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaditya143chauhan@gmail.com)  
-[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:aaditya143chauhan?chat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-chauhan-10196224a/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya-chauhann)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaditya143chauhan@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+
 
 ---
 
