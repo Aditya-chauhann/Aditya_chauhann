@@ -28,9 +28,7 @@ When I’m not coding, you’ll find me organizing college events, playing volle
 Languages: C++, Python, JavaScript, SQL, Ruby  
 Frontend: HTML5, CSS3, Bootstrap, React.js  
 Backend: Django, Flask, Express.js, Node.js  
-Databases: MySQL, MongoDB, Neo4J, Oracle SQL  
-Dev Tools: GitHub, Postman, Heroku, Anaconda, Firebase  
+Databases: MySQL, MongoDB, Oracle SQL  
+Dev Tools: GitHub, Postman, Firebase  
 AI/ML: OpenCV, PyTorch, TensorFlow, scikit-learn, Keras, Pandas, NumPy, Matplotlib, Plotly  
-Creative Tools: Adobe After Effects, Adobe Premiere Pro  
 OS: Linux, Windows
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aditya-chauhann&theme=react-dark)
