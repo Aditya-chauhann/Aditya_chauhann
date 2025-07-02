@@ -46,3 +46,9 @@ When I’m not coding, you’ll find me organizing college events, playing volle
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
 </p>
+
+### 🚀 Live Project Demo
+![GestureMath Demo](https://github.com/Aditya-chauhann/GestureMathAI/blob/main/demo.gif)
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Aditya-chauhann&style=for-the-badge)
